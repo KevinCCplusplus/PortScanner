@@ -31,8 +31,12 @@ Ensure Nmap is installed before running the program.
 3. Build the Program
 
 Using Visual Studio
+
+
 Open PortScanner.sln in Visual Studio.
+
 Set to Release Mode.
+
 Click Build → Build Solution.
 
 
