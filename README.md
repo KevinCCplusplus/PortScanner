@@ -6,12 +6,19 @@ PortScanner is a command-line tool that utilizes Nmap to scan a target IP or dom
 
 Features
 Multiple Scan Modes:
+
 SYN Scan (-sS) – Checks for open ports using a stealth scan.
+
 Service Detection (-sS -sV) – Identifies services running on open ports.
+
 OS Detection (-sS -O) – Attempts to determine the target's operating system.
+
 Aggressive Scan (-A) – Combines multiple scanning techniques for detailed results.
+
 User-Friendly CLI – Simple and interactive command-line interface.
+
 Saves Scan Results – Outputs scan results to scan_results.txt.
+
 Windows Compatibility – Designed to run on Windows systems with Nmap installed.
 
 Installation
