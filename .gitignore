@@ -1,0 +1,11 @@
+# Ignore Visual Studio files and folders
+.vs/
+*.suo
+*.user
+*.vscode/
+bin/
+obj/
+*.exe
+*.log
+*.csv
+scan_results.txt
